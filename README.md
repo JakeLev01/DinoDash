@@ -13,4 +13,4 @@ The game goes on forever or until the user is struck by an enemy, which would le
 
 The game is coded in C/C++ and ARM Cortx-M assembly language and is available to play in English and German.
 
-Skills learned/used: C/C++, ARM Cortex-M assembly, ADC/DAC, System Interrupts, Game Design, OOP, Embedded Systems basics.
+**Skills learned/used: C/C++, ARM Cortex-M assembly, ADC/DAC, System Interrupts, Game Design, OOP, Embedded Systems basics.**
